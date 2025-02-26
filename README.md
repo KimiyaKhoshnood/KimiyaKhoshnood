@@ -17,19 +17,19 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
       <br>React
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="48" height="65" />
-      <br>Python
+        <img src="https://skillicons.dev/icons?i=next" alt="next" width="48" height="65" />
+      <br>Next
     </td>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="65" alt="VsCode" />
-      <br>VsCode
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="65" alt="redux" />
+      <br>Redux
     </td>    
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="48" height="65" />
       <br>JavaScript
     </td>
       <td align="center" width="96">
@@ -37,13 +37,13 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="48" height="65" />
       <br>TypeScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="48" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" alt="github" width="48" height="65" />
       <br>Github
     </td>
     <td align="center" width="96"> 
@@ -51,12 +51,12 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="48" height="65" />
+        <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="48" height="65" />
       <br>Figma
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="65" alt="HTML5" />
-      <br>HTML5
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="65" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="65" alt="css" />
