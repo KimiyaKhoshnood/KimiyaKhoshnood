@@ -9,11 +9,11 @@
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="react" width="48" height="65" />
-      <br>React
+      <br>React.js
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=next" alt="next" width="48" height="65" />
-      <br>Next
+      <br>Next.js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="48" height="65" />
@@ -28,12 +28,12 @@
       <br>Tailwind
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="65" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="65" alt="bootstrap" />
       <br>Node.js
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="65" alt="bootstrap" />
+      <br>Express.js
     </td>
   </tr>
 </table>
